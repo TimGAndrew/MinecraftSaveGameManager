@@ -5,7 +5,7 @@ This program will manage your default Minecraft save games at "%Appdata%\\.Minec
 
 
 
--It will back up any game in the above folder to "%Appdata%\\.Minecraft\Saves\\.MCSGMBackupFolder\\<GAMENAME> - MM-dd-yyyy.HH-mm-ss.fff"
+-It will back up any game in the above folder to "%Appdata%\\.Minecraft\Saves\\.MCSGMBackupFolder\\GAMENAME - MM-dd-yyyy.HH-mm-ss.fff"
 
 eg:
 
