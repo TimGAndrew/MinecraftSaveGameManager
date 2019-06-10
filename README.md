@@ -1,11 +1,11 @@
 # MinecraftSaveGameManager
 A PowerShell GUI to manage Minecraft (Java Edition) Save Games.
 
-This program will manage your default Minecraft save games at "%Appdata%\.Minecraft\Saves\".
+This program will manage your default Minecraft save games at "%Appdata%\\.Minecraft\Saves\".
 
 
 
--It will back up any game in the above folder to "%Appdata%\.Minecraft\Saves\.MCSGMBackupFolder\<GAMENAME> - MM-dd-yyyy.HH-mm-ss.fff"
+-It will back up any game in the above folder to "%Appdata%\.Minecraft\Saves\\.MCSGMBackupFolder\<GAMENAME> - MM-dd-yyyy.HH-mm-ss.fff"
 
 eg:
 
